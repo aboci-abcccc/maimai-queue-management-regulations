@@ -79,11 +79,3 @@ DOCX 和 PDF 均是在 Markdown 文件改动的基础上使用工具生成，再
 - 有更合理的规则设计；
 
 欢迎提交 Issue 或 Pull Request，一起完善这份文本。
-
----
-
-## License
-
-本项目仅涉及原创文本。
-
-除特别说明外，仓库内容采用 MIT License 发布。
